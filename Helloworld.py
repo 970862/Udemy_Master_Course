@@ -1,0 +1,6 @@
+print("hello','world")
+print('123')
+print()
+print("surbhi" "loves"   "archit")
+print("x","y","4", "are")
+print("surbhi is archit's wife")
